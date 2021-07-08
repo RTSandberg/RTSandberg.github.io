@@ -81,13 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Ryan Sandberg"
-  avatar           : # "profile.png"
+  avatar           :  "profile.png"
   bio              : "I'm a PhD student at the University of Michigan in Applied and Interdisciplinary Mathematics and Scientific Computing.  I study computational plasma physics, laser-plasma interactions, and plasma-based acceleration."
   location         : "Ann Arbor, Michigan"
   employer         :
   pubmed           :
   googlescholar    : 
-  email            :
+  email            :  "ryansand@umich.edu
+  email            :  "ryan.t.sandberg@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Ryan-Sandberg"
   uri              :
   bitbucket        :

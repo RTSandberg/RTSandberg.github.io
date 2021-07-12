@@ -7,7 +7,7 @@ excerpt: 'Frequency upshift of a laser pulse in wake of relativistic electron be
 # date: 2009-10-01
 # venue: 'Journal 1'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: '(in preparation) R. Sandberg, and A.G.R. Thomas. . &quot;Plasma Wakefield Photon Acceleration.&quot;.'
+citation: '(in preparation) R. Sandberg, and A.G.R. Thomas. &quot;Plasma Wakefield Photon Acceleration.&quot;.'
 ---
 This paper is about frequency shifting in a wake.
 

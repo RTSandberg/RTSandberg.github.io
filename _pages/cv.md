@@ -27,6 +27,10 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+Awards
+===
+* Michigan Institute for Computational Discovery and Exploration (MICDE) Graduate Fellow, September 2020.
+  
 Skills
 ======
 * C++,  Python, and MATLAB

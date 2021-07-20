@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Site under construction!
----
-
 About me
 ---
 I am a computational plasma physicist at the University of Michigan.  I'm a PhD student in Applied and Interdiscplinary Mathematics and Scientific Computing. 

@@ -6,7 +6,7 @@ excerpt: 'A Forward Adaptively Refined and Regularized Semi-Lagrangian Integral 
 # date: 2022
 venue: 'unknown, to be submitted'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: '(in preparation) R. Sandberg, A.G.R. Thomas, and R. Krasny. &quot;FARRSIGHT: A Forward Adaptively Refined and Regularized Semi-Lagrangian Integral GPU- and Hierarchical Tree-code-accelerated method for the Vlasov-Poisson system.&quot;'
+citation: '(in preparation) R.T. Sandberg, A.G.R. Thomas, and R. Krasny. &quot;FARRSIGHT: A Forward Adaptively Refined and Regularized Semi-Lagrangian Integral GPU- and Hierarchical Tree-code-accelerated method for the Vlasov-Poisson system.&quot;'
 # [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 # Recommended citation: Sandberg, Ryan. (2009). "FARRSIGHT: ." <i>J. Comp. Phys.</i>. 1(1).
 ---

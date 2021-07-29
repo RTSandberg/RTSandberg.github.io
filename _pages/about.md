@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ---
-I am a computational plasma physicist at the University of Michigan finishing a PhD student in Applied and Interdiscplinary Mathematics and Scientific Computing. Plasma physics is the universal subject -- in addition to comprising 99% of the observable baryonic universe, plasma physics has many exciting applications and several frontiers of fundamental science.  These include compact accelerators and radiation sources, high-field physics, high energy density science, extreme astrophysics, laboratory astrophysics, fusion energy, hall thrusters, and heliophysics.
+I am a computational plasma physicist at the University of Michigan finishing a PhD in Applied and Interdiscplinary Mathematics and Scientific Computing. Plasma physics is the universal subject -- in addition to comprising 99% of the observable baryonic universe, plasma physics has many exciting applications and several frontiers of fundamental science.  These include compact accelerators and radiation sources, high-field physics, high energy density science, extreme astrophysics, laboratory astrophysics, fusion energy, hall thrusters, and heliophysics.
 
 Research interests
 ---

@@ -10,8 +10,7 @@ redirect_from:
 
 About me
 ---
-I am a computational plasma physicist at the University of Michigan.  I'm a PhD student in Applied and Interdiscplinary Mathematics and Scientific Computing. 
-Plasma physics is a subject I found midway through my PhD.  It is a field connected immediately to many exciting applications and several frontiers of fundamental science, including compact accelerators and radiation sources, high-field physics, high energy density science, extreme astrophysics, laboratory astrophysics, fusion energy, hall thrusters, heliophysics, and more.
+I am a computational plasma physicist at the University of Michigan finishing a PhD student in Applied and Interdiscplinary Mathematics and Scientific Computing. Plasma physics is the universal subject -- in addition to comprising 99% of the observable baryonic universe, plasma physics has many exciting applications and several frontiers of fundamental science.  These include compact accelerators and radiation sources, high-field physics, high energy density science, extreme astrophysics, laboratory astrophysics, fusion energy, hall thrusters, and heliophysics.
 
 Research interests
 ---
@@ -25,6 +24,6 @@ I also developed the plasma code FARRSIGHT.  It is an adaptive semi-Lagrangian p
 
 Personal
 ---
-I spend most of my time trying to be a scientist. When I'm not working, I'm spending time with my wife, Nicole, and my children Angel and Ty.  Or maybe I'm using an hour or two (too many!) to decompress with a fantasy or science fiction book, show, or game.
+I spend most of my time trying to be a scientist. When I'm not working, I'm spending time with my wife, Nicole, and my children Angel and Ty.  Or maybe I'm decompress withing a fantasy or science fiction book, show, or game.
 
-We like hiking, tree climbing, frisbee, parkour, gymnastics, eating, tennis, sleeping, and pickleball.
+Activities we enjoy together include hiking, tree climbing, frisbee, parkour, gymnastics, eating, tennis, sleeping, and pickleball.

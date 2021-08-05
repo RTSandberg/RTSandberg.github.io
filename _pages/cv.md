@@ -5,7 +5,6 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-[Download paper here](http://rtsandberg.github.io/files/sandberg_CV.pdf)
 ---
 
 {% include base_path %}

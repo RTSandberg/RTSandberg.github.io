@@ -15,15 +15,15 @@ I am a computational plasma physicist at the University of Michigan finishing a 
 Research interests
 ---
 
-I study plasma-based acceleration and numerical methods for plasma simulation.  
+I study plasma-based acceleration and numerical methods for plasma simulation.  My dissertation work consitutes two primary projects: phase matched photon acceleration (PMPA) and the plasma code FARRSIGHT.
 
-I developed a scheme for dephasingless photon acceleration using tapered plasma profiles.  I developed an analytic nonlinear model for the wake behind an ultrarelativistic drive beam in the tapered density profile.  I then solve a coupled set of differential equatios for the plasma profile and predicted laser pulse frequency.  Incorporating the derived profile in plasma simulation using the plasma codes OSIRIS and FBPIC, the laser pulse achieves 5-10x frequency shift in simulations.
+Phase matched photon acceleration is a scheme for frequency upshift using tapered plasma profiles.  This scheme uses an analytic nonlinear model for the wake behind an ultrarelativistic drive beam in the tapered density profile.  This leads to a coupled set of differential equations for the plasma profile and predicted laser pulse frequency.  Incorporating the derived profile in plasma simulation using the plasma codes OSIRIS and FBPIC, the laser pulse achieves 5-10x frequency shift in simulations.
 
-I also developed the plasma code FARRSIGHT.  It is an adaptive semi-Lagrangian particle method for an integral form of the Vlasov Poisson system.  I developed a custom smoothly periodic regularization of the Green's function.  This is employed in a barycentric Lagrange interpolating treecode (BLTC), and deployed on GPU for more than 1000x speedup over direct sum CPU calculations, for the problem sizes I've studied.  I developed an adaptive (modified) quadtree structure compatible with a hierarchy of interpolation schemes; I have used bilinear and biquadratic interpolation.
+The plasma code FARRSIGHT is an adaptive semi-Lagrangian particle method for an integral form of the Vlasov Poisson system.  FARRSIGHT  employs a custom smoothly periodic regularization of the Green's function.  This is employed in a barycentric Lagrange interpolating treecode (BLTC), and deployed on GPU for more than 1000x speedup over direct sum CPU calculations, for the problem sizes I've studied.  I developed an adaptive (modified) quadtree structure compatible with a hierarchy of interpolation schemes; the bilinear and biquadratic interpolation have acutally been implemented.
 
 
 Personal
 ---
-I spend most of my time trying to be a scientist. When I'm not working, I'm spending time with my wife, Nicole, and my children Angel and Ty.  Or maybe I'm decompress withing a fantasy or science fiction book, show, or game.
+I spend most of my time trying to be a scientist. When I'm not working, I'm spending time with my wife, Nicole, and my children Angel and Ty.
 
 Activities we enjoy together include hiking, tree climbing, frisbee, parkour, gymnastics, eating, tennis, sleeping, and pickleball.

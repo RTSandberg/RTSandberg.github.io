@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ---
-I am a computational plasma physicist at the University of Michigan finishing a PhD in Applied and Interdiscplinary Mathematics and Scientific Computing.  When not working, I'm spending time with my wife and children.  We enjoy hiking, tree climbing, frisbee, parkour, gymnastics, eating, tennis, sleeping, and pickleball, not necessarily in that order.
+I am a computational plasma physicist at the University of Michigan finishing a PhD in Applied and Interdiscplinary Mathematics and Scientific Computing.  When not working, I'm spending time with my wife and children.  We enjoy reading, gymnastics, eating, and pickleball, not necessarily in that order.
 
 Research interests
 ---

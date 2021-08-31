@@ -16,7 +16,7 @@ Education
 ======
 * Ph.D in Applied and Interdisciplinary Mathematics and Scientific Computing, University of Michigan, 2021 (expected)
 * M.S. in Mathematics, Brigham Young University, 2015
-* B.S. in Physics (Magna cum Laude), Brigham Young University, 2013
+* B.S. in Physics (Magna Cum Laude), Brigham Young University, 2013
 
 Publications
 ======
@@ -36,8 +36,8 @@ Awards
   
 Skills
 ======
-* C++,  Python, and MATLAB
-* OpenMP, OpenACC, CUDA and MPI
+* Proficient in C++,  Python, and MATLAB
+* Experience with OpenMP, OpenACC, CUDA, and MPI
 
 Courses and Certifications
 ==========================

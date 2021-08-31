@@ -16,7 +16,7 @@ Research interests
 ---
 I like my work in plasma physics.  I get to be part of the universal subject -- in addition to comprising 99% of the observable baryonic universe, plasma physics has many exciting applications and sits at several frontiers of fundamental science.  These include compact accelerators and radiation sources, high-field physics, high energy density science, extreme astrophysics, laboratory astrophysics, fusion energy, hall thrusters, and heliophysics.
 
-My subsets of plasma physics are plasma-based acceleration and numerical methods for plasma simulation and my dissertation work consists primarily of two projects: phase matched photon acceleration (PMPA) and the plasma code FARRSIGHT.
+My dissertation work consists of two projects: phase matched photon acceleration (PMPA) and the plasma code FARRSIGHT.
 
 Phase matched photon acceleration is a scheme for frequency upshift using tapered plasma profiles.  This scheme uses an analytic nonlinear model for the wake behind an ultrarelativistic drive beam in the tapered density profile.  This leads to a coupled set of differential equations for the plasma profile and predicted laser pulse frequency.  Incorporating the derived profile in plasma simulation using the plasma codes OSIRIS and FBPIC, the laser pulse achieves 5-10x frequency shift in simulations.
 

@@ -4,11 +4,11 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/fall_2010_tutor
 venue: "Brigham Young University, Mathematics Department"
-date: 2010-09
+# date: 2010-09
 location: "Provo, UT, US"
 ---
 
-Tutored undergraduate mathematics
+Tutored undergraduate mathematics 2010-2013
 * differential equations
 * calculus
 * linear algebra

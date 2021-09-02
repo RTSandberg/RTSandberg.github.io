@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate student instructor"
 permalink: /teaching/2015_UM_graduate_teaching
 venue: "University of Michigan, Department of Mathematics"
-# date: 2015-09-01
+date: 2015-09-01
 location: "Ann Arbor, MI, US"
 ---
 

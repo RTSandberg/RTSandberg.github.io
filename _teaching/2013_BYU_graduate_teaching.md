@@ -4,9 +4,11 @@ collection: teaching
 type: "Graduate student instructor"
 permalink: /teaching/2013_BYU_graduate_teaching
 venue: "Brigham Young University, Department of Mathematics"
-# date: 2014-01-01
+date: 2013-09-01
 location: "Provo, UT, US"
 ---
+
+Taught 5 semesters, several different undergraduate courses
 
 Courses taught
 =======

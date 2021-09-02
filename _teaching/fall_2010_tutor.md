@@ -9,7 +9,10 @@ location: "Provo, UT, US"
 ---
 
 Tutored undergraduate mathematics 2010-2013
+
+Material covered
 ==========
 * differential equations
 * calculus
 * linear algebra
+* introduction to proofs

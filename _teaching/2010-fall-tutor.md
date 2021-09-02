@@ -2,7 +2,7 @@
 title: "Undergraduate teaching experience"
 collection: teaching
 type: "Tutor"
-permalink: /teaching/fall_2010_tutor
+permalink: /teaching/2010-fall-tutor
 venue: "Brigham Young University, Mathematics Department"
 # date: 2010-09
 location: "Provo, UT, US"

@@ -4,11 +4,11 @@ collection: teaching
 type: "Tutor"
 permalink: /teaching/2010-fall-tutor
 venue: "Brigham Young University, Mathematics Department"
-# date: 2010-09
+date: 2010-09-01
 location: "Provo, UT, US"
 ---
 
-Tutored undergraduate mathematics 2010-2013
+Tutored undergraduate mathematics 6 semesters, from 2010 to 2013
 
 Material covered
 ==========

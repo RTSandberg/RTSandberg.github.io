@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ---
-# [Download CV here](http://RTSandberg.github.io/files/sandberg_CV.pdf)
+[Download CV here](http://RTSandberg.github.io/files/sandberg_cv.pdf)
+[Download Resume here](http://RTSandberg.github.io/files/sandberg_resume.pdf)
 
 Education
 ======

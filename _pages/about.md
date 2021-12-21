@@ -22,12 +22,20 @@ Phase matched photon acceleration is a scheme for frequency upshift using tapere
 
 The plasma code FARRSIGHT is an adaptive semi-Lagrangian particle method for an integral form of the Vlasov Poisson system.  FARRSIGHT employs a custom smoothly periodic regularization of the Green's function.  This is employed in a barycentric Lagrange interpolating treecode (BLTC) and deployed on GPU for more than 1000x speedup over direct sum CPU calculations for the problem sizes I've studied.  I developed an adaptive (modified) quadtree structure compatible with a hierarchy of interpolation schemes; the bilinear and biquadratic interpolation have actually been implemented.
 
-Other interests
----
-I'm interested in science and technology that changes the world.  That potentially includes everything and would take forever; some things I am tinkering with or would like to learn about in the near future include
-* Machine learning / artificial intelligence
-* Quantum computing
-* Autonomous and connected vehicles
-* Robotics
-* Augmented and virtual reality
-* Internet of things
+[//]: # (Other interests)
+
+[//]: # (---)
+
+[//]: # (I'm interested in science and technology that changes the world.  That potentially includes everything and would take forever; some things I am tinkering with or would like to learn about in the near future include)
+
+[//]: # (* Machine learning / artificial intelligence)
+
+[//]: # (* Quantum computing)
+
+[//]: # (* Autonomous and connected vehicles)
+
+[//]: # (* Robotics)
+
+[//]: # (* Augmented and virtual reality)
+
+[//]: # (* Internet of things)

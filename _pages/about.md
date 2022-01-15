@@ -23,12 +23,29 @@ Phase matched photon acceleration is a scheme for frequency upshift using tapere
 The plasma code FARSIGHT is an adaptive semi-Lagrangian particle method for an integral form of the Vlasov Poisson system.  FARSIGHT employs a custom smoothly periodic regularization of the Green's function.  This is employed in a barycentric Lagrange interpolating treecode (BLTC) and deployed on GPU for more than 1000x speedup over direct sum CPU calculations for the problem sizes I've studied.  I developed an adaptive (modified) quadtree structure compatible with a hierarchy of interpolation schemes; the bilinear and biquadratic interpolation have actually been implemented.
 
 FARSIGHT movies:
-* <iframe width="560" height="315" src="https://www.youtube.com/embed/rD-8xj-KJME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* Weak Landau damping showing reversibility
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TTUCK9DrS1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Strong Landau damping showing panels
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RH131FfbLms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[//]: # (* <a href=https://youtu.be/RH131FfbLms> Strong Landau damping showing panels </a>)
+
+* Strong Landau damping reversibility test
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lU-ed4AYQrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[//]: # (* <a href=https://youtu.be/lU-ed4AYQrM> Strong Landau damping reversibility test </a>)
+
+* Halo formation
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UlHV1ezdnFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[//]: # (* <a href=https://youtu.be/UlHV1ezdnFY> Halo formation in a mismatched thermal sheet beam </a>)
+
+* Strong two-stream instability
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vMXde63Nrec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[//]: # (<a href=https://youtu.be/rD-8xj-KJME> Cold two-stream instability reversibility test </a>)
+
+* Cold two-stream instability
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rD-8xj-KJME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [//]: # (* <a href=https://youtu.be/vMXde63Nrec> Strong two-stream instability </a>)
-* <a href=https://youtu.be/RH131FfbLms> Strong Landau damping showing panels </a>
-* <a href=https://youtu.be/lU-ed4AYQrM> Strong Landau damping reversibility test </a>
-* <a href=https://youtu.be/UlHV1ezdnFY> Halo formation in a mismatched thermal sheet beam </a>
-* <a href=https://youtu.be/rD-8xj-KJME> Cold two-stream instability reversibility test </a>
+
 
 [//]: # (Other interests)
 

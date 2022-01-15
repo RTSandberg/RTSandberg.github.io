@@ -16,11 +16,19 @@ Research interests
 ---
 I work in plasma physics and really enjoy it. I get to be part of the universal subject -- in addition to comprising 99% of the observable baryonic universe, plasma physics has many exciting applications and sits at several frontiers of fundamental science.  These include compact accelerators and radiation sources, high-field physics, high energy density science, extreme astrophysics, laboratory astrophysics, fusion energy, hall thrusters, and heliophysics.
 
-My dissertation work consists of two projects: phase matched photon acceleration (PMPA) and the plasma code FARRSIGHT.
+My dissertation work consists of two projects: phase matched photon acceleration (PMPA) and the plasma code FARSIGHT.
 
 Phase matched photon acceleration is a scheme for frequency upshift using tapered plasma profiles.  This scheme uses an analytic nonlinear model for the wake behind an ultrarelativistic drive beam in the tapered density profile.  This leads to a coupled set of differential equations for the plasma profile and predicted laser pulse frequency.  Incorporating the derived profile in plasma simulation using the plasma codes OSIRIS and FBPIC, the laser pulse achieves 5-10x frequency shift in simulations.
 
-The plasma code FARRSIGHT is an adaptive semi-Lagrangian particle method for an integral form of the Vlasov Poisson system.  FARRSIGHT employs a custom smoothly periodic regularization of the Green's function.  This is employed in a barycentric Lagrange interpolating treecode (BLTC) and deployed on GPU for more than 1000x speedup over direct sum CPU calculations for the problem sizes I've studied.  I developed an adaptive (modified) quadtree structure compatible with a hierarchy of interpolation schemes; the bilinear and biquadratic interpolation have actually been implemented.
+The plasma code FARSIGHT is an adaptive semi-Lagrangian particle method for an integral form of the Vlasov Poisson system.  FARSIGHT employs a custom smoothly periodic regularization of the Green's function.  This is employed in a barycentric Lagrange interpolating treecode (BLTC) and deployed on GPU for more than 1000x speedup over direct sum CPU calculations for the problem sizes I've studied.  I developed an adaptive (modified) quadtree structure compatible with a hierarchy of interpolation schemes; the bilinear and biquadratic interpolation have actually been implemented.
+
+FARSIGHT movies:
+* <iframe width="560" height="315" src="https://www.youtube.com/embed/rD-8xj-KJME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[//]: # (* <a href=https://youtu.be/vMXde63Nrec> Strong two-stream instability </a>)
+* <a href=https://youtu.be/RH131FfbLms> Strong Landau damping showing panels </a>
+* <a href=https://youtu.be/lU-ed4AYQrM> Strong Landau damping reversibility test </a>
+* <a href=https://youtu.be/UlHV1ezdnFY> Halo formation in a mismatched thermal sheet beam </a>
+* <a href=https://youtu.be/rD-8xj-KJME> Cold two-stream instability reversibility test </a>
 
 [//]: # (Other interests)
 

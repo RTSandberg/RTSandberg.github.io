@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ---
-I am a computational scientist at the University of Michigan finishing a PhD in Applied and Interdiscplinary Mathematics and Scientific Computing.  When not working, I'm spending time with my wife and children.  We enjoy reading, gymnastics, eating, and pickleball, not necessarily in that order.
+I am a postdoc at Lawrence Berkeley National Laboratory.  I recently finished my PhD in Applied and Interdiscplinary Mathematics and Scientific Computing, my dissertation is titled, "The FARSIGHT Vlasov-Poisson Code and Unlimited Photon Acceleration."  When not working, I'm spending time with my wife and children.  We enjoy reading, gymnastics, eating, and pickleball, not necessarily in that order.
 
 Research interests
 ---

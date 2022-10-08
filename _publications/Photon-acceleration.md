@@ -6,7 +6,7 @@ excerpt: 'Frequency upshift of a laser pulse in wake of relativistic electron be
 # date: 2009-10-01
 venue: 'unknown'
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: '(in preparation) R.T. Sandberg, and A.G.R. Thomas. &quot;Phase Matched Plasma Wakefield Photon Acceleration.&quot;'
+citation: '(under review) R.T. Sandberg, and A.G.R. Thomas. &quot;Phase Matched Plasma Wakefield Photon Acceleration.&quot;'
 # [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 # Recommended citation: Your Name, You. (2021). "Phase matched plasma wakefield photon acceleration." <i>Journal 1</i>. 1(1).
 ---

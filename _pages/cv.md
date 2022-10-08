@@ -15,7 +15,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Applied and Interdisciplinary Mathematics and Scientific Computing, University of Michigan, 2022 (expected)
+* Ph.D in Applied and Interdisciplinary Mathematics and Scientific Computing, University of Michigan, 2022
 * M.S. in Mathematics, Brigham Young University, 2015
 * B.S. in Physics (Magna Cum Laude), Brigham Young University, 2013
 

@@ -8,7 +8,7 @@ venue: 'unknown'
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'R.T. Sandberg, and A.G.R. Thomas. &quot;Photon Acceleration from Optical to XUV.&quot;'
 # [Download paper here](http://academicpages.github.io/files/paper1.pdf)
-Recommended citation: Sandberg, R.T. (2023). "Photon Acceleration from Optical to XUV." <i>Phys. Rev. Lett</i>. 130(8).
+Recommended citation: Sandberg, R.T. and Thomas, A.G.R. (2023). "Photon Acceleration from Optical to XUV." <i>Phys. Rev. Lett</i>. 130(8).
 ---
 This paper is about phase-matched photon acceleration, 
 a scheme for dephasingless photon acceleration in a particle-beam-driven wake. 
